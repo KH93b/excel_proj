@@ -1,0 +1,10 @@
+1. Создали gitignore
+2. Создали репозиторий excel_proj
+3. git init - инициализация системы контроля версий
+4. git add .
+5. git commit -m "initial"
+6. git branch -M main
+7. git remote add origin https://github.com/KH93b/excel_proj.git
+8. git push -u origin main
+
+9. git checkout -b "webpack" - новая ветка для webpack
